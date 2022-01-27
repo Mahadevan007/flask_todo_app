@@ -1,6 +1,5 @@
 
 import json
-from urllib import response
 
 from flask_todo_app import app
 
